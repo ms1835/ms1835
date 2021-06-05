@@ -6,5 +6,6 @@
 - 💞️ I’m looking to collaborate on projects based on web development.
 - 📫 How to reach me: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/mayank-singh-3a6379128/)
                       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](mayanksingh5399@gmail.com)
-                      
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+ 
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ms1835&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ms1835&theme=tokyonight)
