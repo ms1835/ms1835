@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/ms1835/ms1835/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 👋 I’m @ms1835
 - 👀 I’m interested in open source projects.
 - 🌱 I’m currently learning React and Node.js.
