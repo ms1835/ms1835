@@ -20,5 +20,7 @@
 </p><br>
  
  
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ms1835&show_icons=true&theme=tokyonight&count_private=true)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ms1835&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ms1835&theme=tokyonight)
+
+<!-- &count_private=true   -->
