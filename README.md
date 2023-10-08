@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mayanksingh5399@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UBsnDTTm92925vNYxyq2CCfoM1kCcU5w/view?usp=drive_link](https://drive.google.com/file/d/1UBsnDTTm92925vNYxyq2CCfoM1kCcU5w/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1UBsnDTTm92925vNYxyq2CCfoM1kCcU5w/view?usp=drive_link]([https://drive.google.com/file/d/1UBsnDTTm92925vNYxyq2CCfoM1kCcU5w/view?usp=drive_link](https://drive.google.com/file/d/1j0BYtTGnE_gWHT3cdaxNSgyai49i_OcO/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
