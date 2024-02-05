@@ -8,7 +8,7 @@
 - 💬 Ask me about **React, React Native, Javascript**
 
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1CfAn9a1gMmrO5hdF_7MUyqRGYa53zDJf/view?usp=drive_link
+- 📄 Know about my experiences https://drive.google.com/file/d/1aOApFJXKqJEq5Z5ADNDlIb6peADJhGoq/view?usp=drive_link
 
 <h3 align="left">🌐 Connect with me:</h3>
 
