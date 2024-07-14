@@ -1,14 +1,14 @@
 <h1 align="center">💫 Hi 👋, I'm Mayank Singh</h1>
 <h3 align="center">Dynamic Innovator and Collaborative Team Player</h3>
 
-- 🌱 I’m currently learning **Java and Spring Boot**
+- 🌱 I’m currently learning **Spring and Spring Boot**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 💬 Ask me about **React, React Native, Javascript**
 
 
-- 📄 Know about my experiences  [View Resume](https://drive.google.com/file/d/1T4CqMxLpPvLt5Rxu8-POQRIqyj2kvZsI/view?usp=sharing)
+- 📄 Know about my experiences  [View Resume](https://drive.google.com/file/d/1jbUVXQGVEqECHBuR0TNAlqDJ-cTyj9DG/view?usp=sharing)
 
 <h3 align="left">🌐 Connect with me:</h3>
 
