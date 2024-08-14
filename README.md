@@ -1,7 +1,7 @@
 <h1 align="center">💫 Hi 👋, I'm Mayank Singh</h1>
 <h3 align="center">Dynamic Innovator and Collaborative Team Player</h3>
 
-- 🌱 I’m currently learning **Spring and Spring Boot**
+- 🌱 I’m currently learning **Java and Spring**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
