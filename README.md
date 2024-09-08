@@ -1,5 +1,5 @@
 <h1 align="center">💫 Hi 👋, I'm Mayank Singh</h1>
-<h3 align="center">Dynamic Innovator and Collaborative Team Player</h3>
+<h3 align="center">Passionate developer building innovative, user-centric solutions with a focus on seamless functionality and modern technologies.</h3>
 
 - 🌱 I’m currently learning **Java and Spring**
 
@@ -12,7 +12,9 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayank005_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank-singh-3a6379128) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/mayanksingh5399@gmail.com) 
+<!---[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayank005_)-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank-singh-3a6379128) 
+<!---[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/mayanksingh5399@gmail.com) -->
 
 <h3 align="left">💻 Languages and Tools:</h3>
 
