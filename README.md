@@ -1,11 +1,11 @@
 <h1 align="center">💫 Hi 👋, I'm Mayank Singh</h1>
 <h3 align="center">Passionate developer building innovative, user-centric solutions with a focus on seamless functionality and modern technologies.</h3>
 
-- 🌱 I’m currently learning **Java and Spring**
+- 🌱 I’m currently learning **Spring and Spring Boot**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 💬 Ask me about **React, React Native, Javascript**
+- 💬 Ask me about **React, React Native, JavaScript, Java**
 
 
 - 📄 Know about my experiences  [View Resume](https://drive.google.com/file/d/1CJ9JWOgMCF_pj5C4oYrdZXUumP2d3r_K/view?usp=sharing)
