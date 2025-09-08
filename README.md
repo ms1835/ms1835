@@ -1,7 +1,7 @@
 <h1 align="center">💫 Hi 👋, I'm Mayank Singh</h1>
 <h3 align="center">Passionate developer building innovative, user-centric solutions with a focus on seamless functionality and modern technologies.</h3>
 
-- 🌱 I’m currently learning **Spring and Spring Boot**
+<!-- 🌱 I’m currently learning **Spring and Spring Boot** -->
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
