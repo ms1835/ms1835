@@ -8,7 +8,7 @@
 - 💬 Ask me about **React, React Native, JavaScript, Java**
 
 
-- 📄 Know about my experiences  [View Resume](https://drive.google.com/file/d/1CJ9JWOgMCF_pj5C4oYrdZXUumP2d3r_K/view?usp=sharing)
+- 📄 Know about my experiences  [View Resume](https://drive.google.com/file/d/1KdRsjwz2Ll2COw0BhPYSozk9dvlCmU2R/view?usp=sharing)
 
 <h3 align="left">🌐 Connect with me:</h3>
 
