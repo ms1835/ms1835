@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Mayank Singh
-### 💻 Full Stack Developer | ⚡ Building Scalable Systems | 🤖 Exploring AI
+### 💻 Full Stack Developer | ⚡ Building Scalable Systems | 🤖 Exploring Agentic AI
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+AWS+%7C+Java;Building+Scalable+Applications;Exploring+AI+%26+Semantic+Search" />
