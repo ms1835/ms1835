@@ -18,7 +18,7 @@
 ---
 
 ## 📄 Know about my experiences  
-[View Resume](https://drive.google.com/file/d/1YRT_6NepyEM2aJsWQJ_w_DkfEpcIVmnR/view?usp=drive_link)
+[View Resume](https://drive.google.com/file/d/1AVyR16XEztcG7MiEM60gvZNOA-lxlV7a/view?usp=drive_link)
 
 ---
 
