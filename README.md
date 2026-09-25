@@ -1,24 +1,27 @@
 # 👋 Hi, I'm Mayank Singh
-### 💻 Full Stack Developer | ⚡ Building Scalable Systems | 🤖 Exploring Agentic AI
+### 💻 Full Stack Developer | 🤖 GenAI & AI Engineering | ☁️ AWS | ⚡ Building Scalable Applications
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+AWS+%7C+Java;Building+Scalable+Applications;Exploring+AI+%26+Semantic+Search" />
+<p align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+Java+%7C+Node.js+%7C+Python;Generative+AI+%7C+RAG+%7C+Agentic+AI;Building+Production+AI+Applications;AWS+%7C+Microservices+%7C+Cloud" alt="Typing SVG" /> 
 </p>
+<p align="center"> <a href="https://github.com/ms1835"> <img src="https://img.shields.io/github/followers/ms1835?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub Followers"/> </a> <a href="https://github.com/ms1835"> <img src="https://komarev.com/ghpvc/?username=ms1835&style=for-the-badge&color=00C2FF&label=PROFILE+VIEWS" alt="Profile Views"/> </a> </p>
 
 ---
 
 ## 🚀 About Me
-
-- 🔧 3 years of experience in full-stack development  
-- 🌐 Specialized in React, Node.js, AWS, Java
-- 🤖 Working with **RAG, embeddings, vector search**  
-- ⚡ Focused on performance, scalability, and clean architecture  
-- 📍 Bengaluru, India  
+- 💻 3+ years of experience building full-stack applications in a product-based environment
+- ⚛️ Experienced in React, JavaScript, Java, Node.js, REST APIs, and AWS
+- 🤖 Building applications with Generative AI, RAG, embeddings, semantic search, and LLMs
+- 🧠 Exploring LangChain, LangGraph, FastAPI, tool calling, and Agentic AI
+- ☁️ Hands-on experience with AWS, serverless architectures, microservices, and cloud deployments
+- 🗄️ Experienced with MySQL, PostgreSQL, MongoDB, DynamoDB, and vector search
+- ⚡ Interested in building scalable, production-ready AI-powered applications 
 
 ---
 
-## 📄 Know about my experiences  
-[View Resume](https://drive.google.com/file/d/1R-RBeUT4o93xG1MLjAgxCgYzrOfeADen/view?usp=drive_link)
+## 📄 Resume
+
+<p align="center"> <a href="https://drive.google.com/file/d/1R-RBeUT4o93xG1MLjAgxCgYzrOfeADen/view?usp=drive_link"> <img src="https://img.shields.io/badge/View_My_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="View Resume"/> </a> </p>
 
 ---
 
@@ -51,21 +54,75 @@
 
 ---
 
+## 💼 Professional Experience
+- Software Engineer | Product-Based Company
+- Building and maintaining enterprise-grade full-stack applications
+- Developing scalable frontend features using React and JavaScript
+- Building backend services using Java and microservices
+- Working with AWS, MySQL, REST APIs, and distributed services
+- Troubleshooting production issues and performance bottlenecks
+- Writing automated tests and maintaining code quality
+- Working with SonarQube and CI/CD quality gates
+- Integrating Generative AI capabilities into enterprise workflows
+- Building AI-powered features involving LLMs, semantic analysis, and structured generation
+
+---
+
 ## 📌 Featured Projects
 
-### 🎥 Video Streaming Platform (Full Stack + AI)
-- Full-stack app with authentication, video uploads, and channels  
-- Like/dislike, nested comments, threaded replies  
-- **Semantic search using embeddings + vector DB**  
-- Implemented **RAG for intelligent video discovery**
-- **Video recommendation system** based on current video
+### 🎥 Video Streaming Platform — Full Stack + AI
+
+<p align="center"> <img src="https://img.shields.io/badge/Full_Stack-React%20%7C%20Node.js-61DAFB?style=for-the-badge"/> <img src="https://img.shields.io/badge/AI-Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Vector_Search-MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> </p>
+
+A full-stack video platform enhanced with semantic search, embeddings, AI-generated metadata, and intelligent video discovery.
+
+- 🎥 Video upload and streaming platform
+- 🔐 JWT-based authentication
+- 👤 Creator channels
+- ❤️ Likes, dislikes, subscriptions and playlists
+- 💬 Nested comments and threaded replies
+- 🤖 AI-generated video descriptions and tags
+- 🧠 Amazon Bedrock embeddings
+- 🔍 Semantic video search using vector similarity
+- 🗄️ MongoDB Atlas Vector Search
+- 🎯 AI-powered video discovery and recommendation experiments
+- ☁️ AWS-based deployment
+
+Tech: `React` `Node.js` `Express` `MongoDB` `Atlas Vector Search` `Amazon Bedrock` `AWS`
+
+---
+
+### 🤖 SupportPilot — AI Customer Support Agent
+
+<p align="center"> <img src="https://img.shields.io/badge/AI-Agent-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> </p>
+
+A production-oriented AI Customer Support Agent designed to combine RAG-based knowledge retrieval with intelligent backend tools.
+
+- 🤖 AI-powered customer support using LLMs
+- 📚 RAG-based retrieval from customer support policies
+- 🔍 Document ingestion and semantic retrieval pipeline
+- 🧠 Structured LLM outputs for reliable intent handling
+- ⚡ FastAPI backend with service-layer architecture
+- 🗄️ PostgreSQL conversation persistence
+- 🔧 Tool-calling architecture for external actions
+- 🧩 Designed for LangGraph-based agentic workflows
+- 🛡️ Planned guardrails and human escalation for sensitive operations
+- 📊 Exploring evaluation, tracing, streaming, and AI observability
+
+Tech: `Python` `FastAPI` `RAG` `LLMs` `LangChain` `LangGraph` `PostgreSQL` `Vector Search` `React`
 
 ---
 
 ### 📊 Analytics Dashboard
-- Built dynamic dashboards with React + Recharts  
-- RTK Query for efficient API handling  
-- Reusable and scalable UI components  
+
+<p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge"/> </p>
+
+- 📊 Dynamic analytics dashboards
+- ⚛️ React-based reusable components
+- 🔄 RTK Query for API data management
+- 📈 Interactive charts using Recharts
+- ☁️ AWS-backed APIs
+- ⚡ Performance-focused frontend architecture
 
 ---
 
@@ -87,28 +144,19 @@
 ---
 
 ## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ms1835&theme=react-dark"/>
-</p>
-
----
-
-## 🧩 What I'm Working On
-
-- 🔍 AI-powered video recommendation system  
-- ☁️ Serverless backend optimization (AWS)  
-- ⚡ Frontend performance tuning  
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ms1835&theme=react-dark&hide_border=true" alt="Contribution Graph"/> </p>
 
 ---
 
 ## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank-singh-3a6379128) 
-[![MAIL](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayanksingh5399@gmail.com)
+
+<p align="center"> <a href="https://linkedin.com/in/mayank-singh-3a6379128"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:mayanksingh5399@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://github.com/ms1835"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p>
 
 
 ---
 
 ## ⚡ Fun Fact
 
-> I enjoy turning complex backend systems into smooth, user-friendly experiences 🚀
+> I enjoy turning complex software systems into simple, scalable, and intelligent experiences. 🚀
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=100&section=footer" alt="Footer"/> </p>
